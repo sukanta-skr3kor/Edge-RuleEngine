@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RulesEngine" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommonLibrary\Sukanta.Reflection\Sukanta.Reflection.csproj" />
+    <ProjectReference Include="..\CommonLibrary\DataBus\Sukanta.DataBus.Redis\Sukanta.DataBus.Redis.csproj" />
+    <ProjectReference Include="..\CommonLibrary\Logging\Sukanta.LoggerLib.csproj" />
+    <ProjectReference Include="..\Sukanta.Edge.RuleEngine.Command\Sukanta.Edge.RuleEngine.CommandControl.csproj" />
+    <ProjectReference Include="..\Sukanta.Edge.RuleEngine.Data\Sukanta.Edge.RuleEngine.Data.csproj" />
+    <ProjectReference Include="..\Sukanta.Edge.RuleEngine.Model\Sukanta.Edge.RuleEngine.Model.csproj" />
+    <ProjectReference Include="..\Sukanta.Edge.RuleEngine.NotificationHub\Sukanta.Edge.RuleEngine.NotificationHub.csproj" />
+  </ItemGroup>
+
+</Project>

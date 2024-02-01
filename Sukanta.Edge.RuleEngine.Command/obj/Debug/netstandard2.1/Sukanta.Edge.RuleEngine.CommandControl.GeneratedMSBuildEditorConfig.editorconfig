@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Sukanta.Edge.RuleEngine.CommandControl
+build_property.ProjectDir = D:\ReusableComponent\EdgeRuleEngine\Sukanta.Edge.RuleEngine.Command\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,16 @@
+D:\ReusableComponent\MLFramework\CommonLibrary\Logging\bin\Debug\netstandard2.1\DASS.AI.LoggerLib.deps.json
+D:\ReusableComponent\MLFramework\CommonLibrary\Logging\bin\Debug\netstandard2.1\DASS.AI.LoggerLib.dll
+D:\ReusableComponent\MLFramework\CommonLibrary\Logging\bin\Debug\netstandard2.1\DASS.AI.LoggerLib.pdb
+D:\ReusableComponent\MLFramework\CommonLibrary\Logging\obj\Debug\netstandard2.1\DASS.AI.LoggerLib.csproj.AssemblyReference.cache
+D:\ReusableComponent\MLFramework\CommonLibrary\Logging\obj\Debug\netstandard2.1\DASS.AI.LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReusableComponent\MLFramework\CommonLibrary\Logging\obj\Debug\netstandard2.1\DASS.AI.LoggerLib.csproj.CoreCompileInputs.cache
+D:\ReusableComponent\MLFramework\CommonLibrary\Logging\obj\Debug\netstandard2.1\DASS.AI.LoggerLib.dll
+D:\ReusableComponent\MLFramework\CommonLibrary\Logging\obj\Debug\netstandard2.1\DASS.AI.LoggerLib.pdb
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\bin\Debug\netstandard2.1\DASS.AI.LoggerLib.deps.json
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\bin\Debug\netstandard2.1\DASS.AI.LoggerLib.dll
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\bin\Debug\netstandard2.1\DASS.AI.LoggerLib.pdb
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\obj\Debug\netstandard2.1\DASS.AI.LoggerLib.csproj.AssemblyReference.cache
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\obj\Debug\netstandard2.1\DASS.AI.LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\obj\Debug\netstandard2.1\DASS.AI.LoggerLib.csproj.CoreCompileInputs.cache
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\obj\Debug\netstandard2.1\DASS.AI.LoggerLib.dll
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\obj\Debug\netstandard2.1\DASS.AI.LoggerLib.pdb

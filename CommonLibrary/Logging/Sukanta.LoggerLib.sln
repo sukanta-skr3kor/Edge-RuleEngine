@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fuso.LoggerLib", "Fuso.LoggerLib.csproj", "{2D41B6CF-12CA-4FFA-A4A0-52FD0CDCD203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D41B6CF-12CA-4FFA-A4A0-52FD0CDCD203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D41B6CF-12CA-4FFA-A4A0-52FD0CDCD203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D41B6CF-12CA-4FFA-A4A0-52FD0CDCD203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D41B6CF-12CA-4FFA-A4A0-52FD0CDCD203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8F4C5D-3954-43C0-9DE0-E0DB8C108D47}
+	EndGlobalSection
+EndGlobal

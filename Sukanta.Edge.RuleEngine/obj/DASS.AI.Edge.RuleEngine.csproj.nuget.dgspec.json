@@ -1,0 +1,113 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ReusableComponent\\EdgeRuleEngine\\DASS.AI.Edge.RuleEngine\\DASS.AI.Edge.RuleEngine.csproj": {}
+  },
+  "projects": {
+    "D:\\ReusableComponent\\EdgeRuleEngine\\DASS.AI.Edge.RuleEngine\\DASS.AI.Edge.RuleEngine.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\ReusableComponent\\EdgeRuleEngine\\DASS.AI.Edge.RuleEngine\\DASS.AI.Edge.RuleEngine.csproj",
+        "projectName": "DASS.AI.Edge.RuleEngine",
+        "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\DASS.AI.Edge.RuleEngine\\DASS.AI.Edge.RuleEngine.csproj",
+        "packagesPath": "C:\\Users\\Z004FRMR\\.nuget\\packages\\",
+        "outputPath": "D:\\ReusableComponent\\EdgeRuleEngine\\DASS.AI.Edge.RuleEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z004FRMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\Sukanta.LoggerLib.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\Sukanta.LoggerLib.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Sukanta.Reflection\\Sukanta.Reflection.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Sukanta.Reflection\\Sukanta.Reflection.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Core\\Sukanta.Edge.RuleEngine.Core.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Core\\Sukanta.Edge.RuleEngine.Core.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

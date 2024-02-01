@@ -1,0 +1,8 @@
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\bin\Debug\netstandard2.1\Sukanta.LoggerLib.deps.json
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\bin\Debug\netstandard2.1\Sukanta.LoggerLib.dll
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\bin\Debug\netstandard2.1\Sukanta.LoggerLib.pdb
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\obj\Debug\netstandard2.1\Sukanta.LoggerLib.csproj.AssemblyReference.cache
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\obj\Debug\netstandard2.1\Sukanta.LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\obj\Debug\netstandard2.1\Sukanta.LoggerLib.csproj.CoreCompileInputs.cache
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\obj\Debug\netstandard2.1\Sukanta.LoggerLib.dll
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\obj\Debug\netstandard2.1\Sukanta.LoggerLib.pdb

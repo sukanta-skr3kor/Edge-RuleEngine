@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vfJAksvMYuJVuGSRuETgxtv2gDFzEUlW2RfQ1u1n+SbdBQAbXxuVKUtYM3upBAo0EKtQi4NtAwNL/j70m6WdQ==",
+  "success": true,
+  "projectFilePath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus\\Sukanta.DataBus.Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

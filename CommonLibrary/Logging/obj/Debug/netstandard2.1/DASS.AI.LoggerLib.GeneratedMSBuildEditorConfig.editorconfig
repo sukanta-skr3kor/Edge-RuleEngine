@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DASS.AI.LoggerLib
+build_property.ProjectDir = D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Logging\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

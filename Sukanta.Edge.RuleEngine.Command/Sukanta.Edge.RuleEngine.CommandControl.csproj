@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommonLibrary\DataBus\Sukanta.DataBus.Redis\Sukanta.DataBus.Redis.csproj" />
+    <ProjectReference Include="..\Sukanta.Edge.RuleEngine.Model\Sukanta.Edge.RuleEngine.Model.csproj" />
+  </ItemGroup>
+
+</Project>

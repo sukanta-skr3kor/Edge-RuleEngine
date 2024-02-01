@@ -1,0 +1,740 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine\\Sukanta.Edge.RuleEngine.csproj": {}
+  },
+  "projects": {
+    "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj",
+        "projectName": "Sukanta.DataBus.Redis",
+        "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj",
+        "packagesPath": "C:\\Users\\Z004FRMR\\.nuget\\packages\\",
+        "outputPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z004FRMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus\\Sukanta.DataBus.Abstraction.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus\\Sukanta.DataBus.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus\\Sukanta.DataBus.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus\\Sukanta.DataBus.Abstraction.csproj",
+        "projectName": "Sukanta.DataBus.Abstraction",
+        "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus\\Sukanta.DataBus.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\Z004FRMR\\.nuget\\packages\\",
+        "outputPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z004FRMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\Sukanta.LoggerLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\Sukanta.LoggerLib.csproj",
+        "projectName": "Sukanta.LoggerLib",
+        "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\Sukanta.LoggerLib.csproj",
+        "packagesPath": "C:\\Users\\Z004FRMR\\.nuget\\packages\\",
+        "outputPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z004FRMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.ColoredConsole": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.RollingFile": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Sukanta.Reflection\\Sukanta.Reflection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Sukanta.Reflection\\Sukanta.Reflection.csproj",
+        "projectName": "Sukanta.Reflection",
+        "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Sukanta.Reflection\\Sukanta.Reflection.csproj",
+        "packagesPath": "C:\\Users\\Z004FRMR\\.nuget\\packages\\",
+        "outputPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Sukanta.Reflection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z004FRMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Collections.Immutable.Surrogate": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "System.Runtime.Loader": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Command\\Sukanta.Edge.RuleEngine.CommandControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Command\\Sukanta.Edge.RuleEngine.CommandControl.csproj",
+        "projectName": "Sukanta.Edge.RuleEngine.CommandControl",
+        "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Command\\Sukanta.Edge.RuleEngine.CommandControl.csproj",
+        "packagesPath": "C:\\Users\\Z004FRMR\\.nuget\\packages\\",
+        "outputPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Command\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z004FRMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Core\\Sukanta.Edge.RuleEngine.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Core\\Sukanta.Edge.RuleEngine.Core.csproj",
+        "projectName": "Sukanta.Edge.RuleEngine.Core",
+        "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Core\\Sukanta.Edge.RuleEngine.Core.csproj",
+        "packagesPath": "C:\\Users\\Z004FRMR\\.nuget\\packages\\",
+        "outputPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z004FRMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\Sukanta.LoggerLib.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\Sukanta.LoggerLib.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Sukanta.Reflection\\Sukanta.Reflection.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Sukanta.Reflection\\Sukanta.Reflection.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Command\\Sukanta.Edge.RuleEngine.CommandControl.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Command\\Sukanta.Edge.RuleEngine.CommandControl.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Data\\Sukanta.Edge.RuleEngine.Data.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Data\\Sukanta.Edge.RuleEngine.Data.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.NotificationHub\\Sukanta.Edge.RuleEngine.NotificationHub.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.NotificationHub\\Sukanta.Edge.RuleEngine.NotificationHub.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "RulesEngine": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Data\\Sukanta.Edge.RuleEngine.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Data\\Sukanta.Edge.RuleEngine.Data.csproj",
+        "projectName": "Sukanta.Edge.RuleEngine.Data",
+        "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Data\\Sukanta.Edge.RuleEngine.Data.csproj",
+        "packagesPath": "C:\\Users\\Z004FRMR\\.nuget\\packages\\",
+        "outputPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z004FRMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus\\Sukanta.DataBus.Abstraction.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus\\Sukanta.DataBus.Abstraction.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\Sukanta.LoggerLib.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\Sukanta.LoggerLib.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj",
+        "projectName": "Sukanta.Edge.RuleEngine.Model",
+        "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj",
+        "packagesPath": "C:\\Users\\Z004FRMR\\.nuget\\packages\\",
+        "outputPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z004FRMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.NotificationHub\\Sukanta.Edge.RuleEngine.NotificationHub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.NotificationHub\\Sukanta.Edge.RuleEngine.NotificationHub.csproj",
+        "projectName": "Sukanta.Edge.RuleEngine.NotificationHub",
+        "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.NotificationHub\\Sukanta.Edge.RuleEngine.NotificationHub.csproj",
+        "packagesPath": "C:\\Users\\Z004FRMR\\.nuget\\packages\\",
+        "outputPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.NotificationHub\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z004FRMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine\\Sukanta.Edge.RuleEngine.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine\\Sukanta.Edge.RuleEngine.csproj",
+        "projectName": "Sukanta.Edge.RuleEngine",
+        "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine\\Sukanta.Edge.RuleEngine.csproj",
+        "packagesPath": "C:\\Users\\Z004FRMR\\.nuget\\packages\\",
+        "outputPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z004FRMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\DataBus\\Sukanta.DataBus.Redis\\Sukanta.DataBus.Redis.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\Sukanta.LoggerLib.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Logging\\Sukanta.LoggerLib.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Sukanta.Reflection\\Sukanta.Reflection.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Sukanta.Reflection\\Sukanta.Reflection.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Core\\Sukanta.Edge.RuleEngine.Core.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Core\\Sukanta.Edge.RuleEngine.Core.csproj"
+              },
+              "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj": {
+                "projectPath": "D:\\ReusableComponent\\EdgeRuleEngine\\Sukanta.Edge.RuleEngine.Model\\Sukanta.Edge.RuleEngine.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

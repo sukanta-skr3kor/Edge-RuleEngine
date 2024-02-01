@@ -1,0 +1,50 @@
+﻿{
+  "RuleEngineSettings": {
+    "NotificationEnabled": true,
+    "SignalrHubUrl": "http://localhost:19700/hubs/ruleengine/alert",
+    "UseCertificate": false,
+    "CertificateFile": "./Certificates/test.pfx",
+    "CertificatePassword": "",
+    "UseHttps": false,
+    "Port": 19702,
+    "UseHttp": true,
+    "HttpPort": 19700,
+    "UseMutualTls": false,
+    "MutualTlsPort": 19701,
+    "Binding": "localhost",
+
+    "SimpleRule": {
+      "Enabled": true,
+      "RuleFilePath": "./Rules/Simple",
+      "RuleExecutionSeconds": 1
+    },
+    "ComplexRule": {
+      "Enabled": true,
+      "NumberOfParamterToAnalyze": 2,
+      "RuleFilePath": "./Rules/Complex",
+      "RuleExecutionSeconds": 5
+    },
+    "DataBusSettings": {
+      "Type": "Redis",
+      "Name": "Redis Pub/Sub",
+      "Enabled": true,
+      "Server": "localhost:6379",
+      "SubscribeTopic": "datamessage",
+      "PublishTopic": "ruleengine/commandmessage",
+      "DBPersistEnabled": true,
+      "DBStreamEnabled": true,
+      "StreamLength": 100,
+      "CommandMessageEnabled": false,
+      "DataReadIntervalSeconds": 1
+    },
+
+    "Parameters": [
+      {
+        "Id": "Temperature"
+      },
+      {
+        "Id": "Pressure"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DASS.AI.Edge.RuleEngine.NotificationHub
+build_property.ProjectDir = D:\ReusableComponent\EdgeRuleEngine\DASS.AI.Edge.RuleEngine.NotificationHub\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

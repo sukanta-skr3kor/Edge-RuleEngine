@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "DGJdlk3tDAGrMwhBqwbhxRdg3mycsh+Q1nkc8aqvoXHM18jEe4kn2kO8tfjtMUPnB+hl2vv5FwKilZlBrCSgNQ==",
+  "success": true,
+  "projectFilePath": "D:\\ReusableComponent\\EdgeRuleEngine\\CommonLibrary\\Sukanta.Reflection\\Sukanta.Reflection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.collections.immutable\\1.6.0\\system.collections.immutable.1.6.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.collections.immutable.surrogate\\1.2.0\\system.collections.immutable.surrogate.1.2.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Z004FRMR\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

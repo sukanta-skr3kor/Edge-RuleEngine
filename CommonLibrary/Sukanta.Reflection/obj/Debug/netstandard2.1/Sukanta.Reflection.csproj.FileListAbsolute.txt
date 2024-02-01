@@ -1,0 +1,8 @@
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Sukanta.Reflection\bin\Debug\netstandard2.1\Sukanta.Reflection.deps.json
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Sukanta.Reflection\bin\Debug\netstandard2.1\Sukanta.Reflection.dll
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Sukanta.Reflection\bin\Debug\netstandard2.1\Sukanta.Reflection.pdb
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Sukanta.Reflection\obj\Debug\netstandard2.1\Sukanta.Reflection.csproj.AssemblyReference.cache
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Sukanta.Reflection\obj\Debug\netstandard2.1\Sukanta.Reflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Sukanta.Reflection\obj\Debug\netstandard2.1\Sukanta.Reflection.csproj.CoreCompileInputs.cache
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Sukanta.Reflection\obj\Debug\netstandard2.1\Sukanta.Reflection.dll
+D:\ReusableComponent\EdgeRuleEngine\CommonLibrary\Sukanta.Reflection\obj\Debug\netstandard2.1\Sukanta.Reflection.pdb
