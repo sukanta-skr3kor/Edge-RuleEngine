@@ -1,9 +1,0 @@
-D:\ReusableComponent\EdgeRuleEngine\Sukanta.Edge.RuleEngine.Model\bin\Debug\netstandard2.1\Sukanta.Edge.RuleEngine.Model.deps.json
-D:\ReusableComponent\EdgeRuleEngine\Sukanta.Edge.RuleEngine.Model\bin\Debug\netstandard2.1\Sukanta.Edge.RuleEngine.Model.dll
-D:\ReusableComponent\EdgeRuleEngine\Sukanta.Edge.RuleEngine.Model\bin\Debug\netstandard2.1\Sukanta.Edge.RuleEngine.Model.pdb
-D:\ReusableComponent\EdgeRuleEngine\Sukanta.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\Sukanta.Edge.RuleEngine.Model.GeneratedMSBuildEditorConfig.editorconfig
-D:\ReusableComponent\EdgeRuleEngine\Sukanta.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\Sukanta.Edge.RuleEngine.Model.AssemblyInfoInputs.cache
-D:\ReusableComponent\EdgeRuleEngine\Sukanta.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\Sukanta.Edge.RuleEngine.Model.AssemblyInfo.cs
-D:\ReusableComponent\EdgeRuleEngine\Sukanta.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\Sukanta.Edge.RuleEngine.Model.csproj.CoreCompileInputs.cache
-D:\ReusableComponent\EdgeRuleEngine\Sukanta.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\Sukanta.Edge.RuleEngine.Model.dll
-D:\ReusableComponent\EdgeRuleEngine\Sukanta.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\Sukanta.Edge.RuleEngine.Model.pdb

@@ -1,9 +1,0 @@
-D:\ReusableComponent\EdgeRuleEngine\DASS.AI.Edge.RuleEngine.Model\bin\Debug\netstandard2.1\DASS.AI.Edge.RuleEngine.Model.deps.json
-D:\ReusableComponent\EdgeRuleEngine\DASS.AI.Edge.RuleEngine.Model\bin\Debug\netstandard2.1\DASS.AI.Edge.RuleEngine.Model.dll
-D:\ReusableComponent\EdgeRuleEngine\DASS.AI.Edge.RuleEngine.Model\bin\Debug\netstandard2.1\DASS.AI.Edge.RuleEngine.Model.pdb
-D:\ReusableComponent\EdgeRuleEngine\DASS.AI.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\DASS.AI.Edge.RuleEngine.Model.GeneratedMSBuildEditorConfig.editorconfig
-D:\ReusableComponent\EdgeRuleEngine\DASS.AI.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\DASS.AI.Edge.RuleEngine.Model.AssemblyInfoInputs.cache
-D:\ReusableComponent\EdgeRuleEngine\DASS.AI.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\DASS.AI.Edge.RuleEngine.Model.AssemblyInfo.cs
-D:\ReusableComponent\EdgeRuleEngine\DASS.AI.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\DASS.AI.Edge.RuleEngine.Model.csproj.CoreCompileInputs.cache
-D:\ReusableComponent\EdgeRuleEngine\DASS.AI.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\DASS.AI.Edge.RuleEngine.Model.dll
-D:\ReusableComponent\EdgeRuleEngine\DASS.AI.Edge.RuleEngine.Model\obj\Debug\netstandard2.1\DASS.AI.Edge.RuleEngine.Model.pdb
