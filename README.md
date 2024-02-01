@@ -1,6 +1,9 @@
 # Edge-RuleEngine
 A rule engine based on C# Dot net and Json
 
+![IIOT-Edge-SW-Stack](https://github.com/sukanta-skr3kor/Edge-RuleEngine/assets/109649478/1147e25e-9c58-4982-bffe-121f55108a56)
+
+
 Example Rule:
 [
   {
